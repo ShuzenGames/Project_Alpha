@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_Alpha.BaseUI">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAgAAAAAAAAACAACAAAAgAAACAAAEAAA=</HashCode>
+      <FileName>Classes\UI\BaseUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Alpha.BaseButton">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\UI\BaseButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Alpha.Button">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\UI\Button.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Project_Alpha.ButtonInterface">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Classes\UI\ButtonInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Nina" Size="9" />
+</ClassDiagram>
