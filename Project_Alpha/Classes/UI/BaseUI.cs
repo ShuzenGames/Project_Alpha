@@ -8,41 +8,36 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Project_Alpha
 {
-    public class BaseUI
+    public abstract class BaseUI
     {
-
-        public float Id { get; private set; }
-
         public Vector2 Pos { get; private set; }
-
+        public Texture2D Texture { get; private set; }
         public bool Hidden { get; private set; }
-
         public bool Active { get; private set; }
 
-        public BaseUI()
+        public BaseUI(Vector2 pos, Texture2D texture)
+        {
+            this.Pos = pos;
+            this.Texture = texture;
+            this.Hidden = false;
+            this.Active = true;
+        }
+
+        public abstract void Init();
+
+        public virtual void Update(GameTime gt)
+        {
+
+        }
+
+        public virtual void Draw(SpriteBatch sb)
+        {
+            sb.Draw(this.Texture, this.Pos, Color.White);
+        }
+
+        public virtual void Unload()
         {
             
         }
-
-        public virtual void Init() 
-        {
-            
-        }
-
-        public virtual void Update()
-        {
-
-        }
-
-        public virtual void Draw()
-        {
-
-        }
-
-        public virtual void OnLoad()
-        {
-
-        }
-
     }
 }

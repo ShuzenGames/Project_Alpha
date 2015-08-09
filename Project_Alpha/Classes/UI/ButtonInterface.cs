@@ -13,12 +13,12 @@ namespace Project_Alpha
         ///       is adjusted accordingly.
         ///       </para>
         /// </devdoc>
-        public void NotifyDefault(bool value);
+        void NotifyDefault(bool value);
 
         /// <devdoc>
         /// <para>Generates a event for the control.</para>
         /// </devdoc>
-        public void PerformClick();
+        void PerformClick();
 
     }
 }

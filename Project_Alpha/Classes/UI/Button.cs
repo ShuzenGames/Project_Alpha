@@ -11,10 +11,20 @@ namespace Project_Alpha
     public class Button : BaseButton, ButtonInterface
     {
 
-        public Button()
+        public Button(Vector2 pos, Texture2D texture) 
+            : base(pos, texture)
         {
 
         }
 
+        public void PerformClick()
+        {
+
+        }
+
+        public void NotifyDefault(bool isDefault)
+        {
+
+        }
     }
 }

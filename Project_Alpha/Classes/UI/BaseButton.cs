@@ -11,7 +11,13 @@ namespace Project_Alpha
     public class BaseButton : BaseUI
     {
 
-        public BaseButton()
+        public BaseButton(Vector2 pos, Texture2D texture) 
+            : base (pos, texture)
+        {
+
+        }
+
+        public override void Init()
         {
 
         }
@@ -21,7 +27,6 @@ namespace Project_Alpha
 
         }
 
-      
 
     }
 }
