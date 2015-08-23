@@ -53,7 +53,7 @@
     <Compile Include="Classes\Screens\PlayScreen.cs" />
     <Compile Include="Classes\Screens\SplashScreen.cs" />
     <Compile Include="Classes\Manager\GraphicsManager.cs" />
-    <Compile Include="Classes\Manager\InputMagager.cs" />
+    <Compile Include="Classes\Manager\InputManager.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
