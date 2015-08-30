@@ -50,3 +50,4 @@ C:\Users\Andy\Documents\GIT\Project_Alpha\Project_Alpha\bin\Windows\Debug\SharpD
 C:\Users\Andy\Documents\GIT\Project_Alpha\Project_Alpha\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\Andy\Documents\GIT\Project_Alpha\Project_Alpha\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\Andy\Documents\GIT\Project_Alpha\Project_Alpha\obj\x86\Debug\Project_Alpha.exe
+C:\Users\Sascha\Documents\Visual Studio 2013\Projects\Project_Alpha\Project_Alpha\obj\x86\Debug\Project_Alpha.pdb
