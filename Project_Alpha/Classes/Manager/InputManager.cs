@@ -5,7 +5,7 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-namespace Project_Alpha
+namespace Project_Alpha.Classes.Manager
 {
     class InputManager
     {

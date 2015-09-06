@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Andy/Documents/GIT/Project_Alpha/Project_Alpha/Content/ShuzenGames.png</SourceFile>
-  <SourceTime>2015-08-09T18:32:38.685033+02:00</SourceTime>
-  <DestFile>C:/Users/Andy/Documents/GIT/Project_Alpha/Project_Alpha/Content/bin/Windows/ShuzenGames.xnb</DestFile>
-  <DestTime>2015-08-09T18:47:11.2619415+02:00</DestTime>
+  <SourceFile>C:/Users/Sascha/Documents/Visual Studio 2013/Projects/Project_Alpha/Project_Alpha/Content/ShuzenGames.png</SourceFile>
+  <SourceTime>2015-08-29T21:52:33.4465656+02:00</SourceTime>
+  <DestFile>C:/Users/Sascha/Documents/Visual Studio 2013/Projects/Project_Alpha/Project_Alpha/Content/bin/Windows/ShuzenGames.xnb</DestFile>
+  <DestTime>2015-09-06T22:53:44.9771857+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
